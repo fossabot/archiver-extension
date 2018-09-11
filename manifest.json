@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Save to web.archive.org",
-    "author": "Advay Mengle and the authors of the https://github.com/publicdocs project",
+    "author": "Advay Mengle and the https://github.com/publicdocs-platform/archiver-extension authors",
     "description": "Save current url to web.archive.org.  Not affiliated with the Internet Archive.",
     "version": "1.0.0",
     "permissions": [
